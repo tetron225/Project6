@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TourApp</string>
+
+    <string name="queens">QUEENS</string>
+    <string name="brooklyn">BROOKLYN</string>
+    <string name="bronx">BRONX</string>
+    <string name="statenisland">STATEN ISLAND</string>
+    <string name="manhattan">MANHATTAN</string>
+
+    <!--Title-->
+
+    <string name="empiretitle">The Empire State Building</string>
+    <string name="museumtitle">The Museum of Natural History"</string>
+    <string name="freedomtitle">Freedom Tower</string>
+    <string name="timetitle">Times Square</string>
+
+    <string name="halltitle">The Hall of Science</string>
+    <string name="flushingtitle">Flushing Meadow Park</string>
+    <string name="citititle">Citi Fields</string>
+    <string name="gardentitle">Queens Botanical Garden</string>
+
+    <string name="statentitle">Staten Island Museum</string>
+    <string name="ferrytitle">Staten Island Ferry</string>
+    <string name="zootitle">State Island Zoo</string>
+    <string name="jmmotatitle">Jacques Marchais Museum of Tibetan Art</string>
+
+    <string name="prospecttitle">Prospect Park</string>
+    <string name="prospectzootitle">Prospect Park Zoo</string>
+    <string name="nyaquatitle">New York Aquarium</string>
+    <string name="bridgetitle">Brooklyn Bridge</string>
+
+    <string name="bronxzootitle">Bronx Zoo</string>
+    <string name="yankeetitle">Yankee Stadium</string>
+    <string name="arttitle">Bronx Museum of the Arts</string>
+    <string name="eaptitle">Edgar Allan Poe Cottage</string>
+
+
+    <!-- Details -->
+
+    <string name="empireinfo">The Empire State Building became the tallest building in New York City again after the collapse of the World Trade Center in 2001.</string>
+    <string name="museum">The American Museum of Natural History occupies more than 186,000 square meters (2,000,000 square feet). It is one of the largest museums in the world.</string>
+    <string name="freedominfo">At 541 meters (1,776 feet), One World Trade Center is the tallest building in the Western Hemisphere, and the sixth-tallest in the world.</string>
+    <string name="timeinfo">The world famous ball drops from a pole atop the 25-story One Times Square building and the ball is timed to reach the bottom of the pole at precisely 12 midnight, New Year’s Day.</string>
+
+    <string name="hallinfo">It occupies one of the few remaining structures from the 1964 New York World\'s Fair, and is New York City's only hands-on science and technology center.</string>
+    <string name="flushinginfo">Flushing Meadows–Corona Park was created as the site of the 1939/1940 New York World\'s Fair and also hosted the 1964/1965 New York World's Fair.</string>
+    <string name="citiinfo">The stadium was built as a replacement for and adjacent to Shea Stadium, which opened in 1964 next to the site of the 1964 New York World\'s Fair.</string>
+    <string name="gardeninfo">It consists of 39 85acres, featuring rose, bee, herb, wedding, and perennial gardens, an arboretum, an art gallery, and a "Platinum" LEED rated Visitor and Administration Building.</string>
+
+    <string name="stateninfo">Staten Island’s oldest cultural institution, and the only remaining general interest museum in New York City. </string>
+    <string name="ferryinfo">The ferry\'s single route runs 5.2 miles (8.4 km) through New York Harbor between the New York City boroughs of Manhattan and Staten Island, with ferry boats making the trip in approximately 25 minutes.</string>
+    <string name="zooinfo">an 8-acre (3.2 ha) suburban zoo in West New Brighton, Staten Island, New York City.</string>
+    <string name="jmmotainfo">home to one of the United States\' most extensive collections of Himalayan artifacts.</string>
+
+    <string name="prospectinfo"> a 526-acre (213 hectare)[4] public park in the New York City borough of Brooklyn, and the second largest public park in Brooklyn</string>
+    <string name="prospectzooinfo">The Prospect Park Zoo presently offers children\'s educational programs, is engaged in restoration of endangered species populations, runs a wildlife theater and reaches out to the local community through volunteer programs.</string>
+    <string name="nyaquainfo">The facility occupies 14 acres and boasts 266 species of aquatic wildlife.</string>
+    <string name="bridgeinfo">a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States.</string>
+
+    <string name="bronxzooinfo">On average, the zoo has 2.15 million visitors each year, and it comprises 265 acres (107 ha) of park lands and naturalistic habitats, through which the Bronx River flows.</string>
+    <string name="yankeeinfo">It serves as the home ballpark for the New York Yankees of Major League Baseball (MLB), and is also the home park for New York City FC of Major League Soccer (MLS).</string>
+    <string name="artinfo">The museum focuses on contemporary and 20th-century works created by American artists, but it has hosted exhibitions of art and design from Latin America, Africa, and Asia.</string>
+    <string name="eapinfo">the former home of American writer Edgar Allan Poe.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

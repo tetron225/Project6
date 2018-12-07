@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.tourapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainView">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Bronx"
+            android:label="Bronx"
+            android:parentActivityName=".MainView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainView"/>
+
+        </activity>
+
+        <activity android:name=".Brooklyn"
+            android:label="Brooklyn"
+            android:parentActivityName=".MainView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainView"/>
+
+        </activity>
+
+        <activity android:name=".Queens"
+            android:label="Queens"
+            android:parentActivityName=".MainView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainView"/>
+
+        </activity>
+
+        <activity android:name=".StatenIsland"
+            android:label="Staten Island"
+            android:parentActivityName=".MainView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainView"/>
+
+        </activity>
+
+        <activity android:name=".Manhattan"
+            android:label="Manhattan"
+            android:parentActivityName=".MainView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainView"/>
+
+        </activity>
+
+    </application>
+
+</manifest>
